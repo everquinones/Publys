@@ -22,3 +22,8 @@ Repository Contents
 -------------------
 * **/Documentation** - Data sheets, additional product information
 * **/Hardware** - DesignSpark PCB design files (.prj, .sch) and PDF
+
+# License Information
+
+This product is open source! Both, our hardware and software are open source and licensed under the following licenses:
+

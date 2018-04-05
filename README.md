@@ -1,4 +1,7 @@
 # Publys
+
+![lab publys](https://user-images.githubusercontent.com/28754962/38358567-fb8744ca-389b-11e8-82f5-1d3359560caf.jpg)
+
 An open source biosensing board.
 
 Publys is an open source platform of bio sensors that can measure:
